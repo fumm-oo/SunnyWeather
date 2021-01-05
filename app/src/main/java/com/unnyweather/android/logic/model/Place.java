@@ -2,7 +2,7 @@ package com.unnyweather.android.logic.model;
 
 import com.google.gson.annotations.SerializedName;
 
-public class Place {
+public class  Place {
     String name;
     Location location;
     @SerializedName("formatted_address")
